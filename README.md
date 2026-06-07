@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Lohith K
 
-<!--
-**lohithkblr/lohithkblr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Infrastructure Engineer with 15+ years of experience in:
 
-Here are some ideas to get you started:
+- Microsoft Azure
+- Windows Server Administration
+- VMware vSphere
+- PowerShell Automation
+- Active Directory
+- Hybrid Cloud Infrastructure
+- Infrastructure Operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- Microsoft Azure Administrator (AZ-103)
+
+## Areas of Interest
+- Azure Infrastructure
+- Infrastructure Automation
+- DevOps for Infrastructure
+- Cloud Migration
+- Security Hardening
+
+## Contact
+Email: lohithkblr@gmail.com
+LinkedIn: www.linkedin.com/in/lohith-k
